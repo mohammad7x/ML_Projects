@@ -9,7 +9,7 @@
 
 | نام پروژه | توضیح | برنچ |
 |-----------|-------|------|
-| تحلیل GDP چین | تحلیل داده‌های GDP چین با استفاده از pandas و matplotlib | `China_GDP` |
+| تحلیل GDP چین | تحلیل داده‌های GDP چین با استفاده از pandas و matplotlib | `[China_GDP](https://github.com/mohammad7x/ML_Projects/tree/China_GDP)` |
  تحلیل داده‌های مربوط به کانادا | تحلیل داده‌های مربوط به کانادا مانند آب و هوا، موقعیت جغرافیایی و ... | `DBSCAN_WeatherStation `
 | ... | پروژه‌های دیگر در آینده | `...` |
 
