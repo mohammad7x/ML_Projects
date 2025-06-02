@@ -10,7 +10,7 @@
 | نام پروژه | توضیح | برنچ |
 |-----------|-------|------|
 | تحلیل GDP چین | تحلیل داده‌های GDP چین با استفاده از pandas و matplotlib | `China-GDP` |
- تحلیل آب و هوا | DBSCAN_WeatherStation |
+ تحلیل آب و هوا | DBSCAN_WeatherStation | `DBSCAN_WeatherStation `
 | ... | پروژه‌های دیگر در آینده | `...` |
 
 ---
