@@ -31,7 +31,7 @@ jupyter notebook notebook.ipynb
 ---
 
 ## 📊 نمونه خروجی (دندروگرام)
-![خوشه‌بندی (Dendrogram)](assets/cluster_plot.png)
+![خوشه‌بندی (Dendrogram)](cluster_plot.png)
 
 ---
 
