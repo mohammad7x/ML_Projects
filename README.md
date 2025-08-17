@@ -25,6 +25,9 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 اجرا
+1) نوت‌بوک را اجرا کنید تا خوشه‌ها و نمودارها تولید شوند.
+2) در انتهای نوت‌بوک، سلول «ذخیرهٔ نمودار خروجی» را اجرا کنید تا فایل تصویر در `assets/cluster_plot.png` ذخیره شود.
+
 ```bash
 jupyter notebook notebook.ipynb
 ```
@@ -32,6 +35,7 @@ jupyter notebook notebook.ipynb
 ---
 
 ## 📊 نمونه خروجی
+پس از اجرای سلول ذخیره‌سازی، تصویر زیر در README دیده می‌شود:
 
 ![خوشه‌بندی](assets/cluster_plot.png)
 
